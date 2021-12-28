@@ -7,7 +7,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)https://github.com/REBEL725/newpornbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/REBEL725/newpornbot)
 
 # CREDIT
 
