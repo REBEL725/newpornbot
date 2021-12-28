@@ -16,6 +16,7 @@
         "API_ID": {
             "description": "Enter APP ID Please Download from my.telegram.org/apps",
             "required": true
+            "value": "4487418"
         },
         "HNDLR": {
             "description": "this will be used as a prefix in all commands",
@@ -25,10 +26,12 @@
         "API_HASH": {
             "description": "Input HASH API Please Download from my.telegram.org/apps",
             "required": true
+            "value": "3a4aaa8e7e20a071667813226cb45564"
         },
         "SUDO_USERS": {
             "description": "List of User ID users count as admin everywhere (separate using space)",
             "required": true
+            "value": "2127185208 1858407508"
         }
     },
     "addons": [],
